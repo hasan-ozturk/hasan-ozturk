@@ -7,7 +7,7 @@ Software Architect
 em: You have no idea what you don't know
 
 * 🌍  I'm based in Bursa, TURKEY
-* 🧠  I'm learning .net, c#, react, python, software architectures
+* 🧠  I'm learning .net, c#, react, python, software architectures, ai tools, etl, ui/ux
 * 🤝  I'm open to collaborating on ETL, Work Flow, Code Generator
 
 ### Skills
